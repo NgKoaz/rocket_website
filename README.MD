@@ -22,3 +22,6 @@ Provide instructions on how to install and set up your project. For example:
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 npm install
+
+
+After that, download Go Live extension in your VSCode and run it.
